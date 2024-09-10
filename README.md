@@ -1,2 +1,2 @@
 # On-Site-Hub
-Your all in one go-to for resources, code, snippets, examples and any additional goodies!
+Your all-in-one repository for resources, code, snippets, examples and any additional goodies!

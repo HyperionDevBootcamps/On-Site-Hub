@@ -1,3 +1,12 @@
+<p align="center">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,powershell,windows" />
+</p>
+<h1 align="center">Terminal, Bash & Command Line</h1>
+</br>
+</br>
+
+
 - #### Bash:
     - [Bash Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 

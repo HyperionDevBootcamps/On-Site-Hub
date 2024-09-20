@@ -1,4 +1,12 @@
-## VSCode
+<p align="center">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,vscodium" />
+</p>
+<h1 align="center">Visual Studio Code & VSCodium</h1>
+</br>
+</br>
+
+        
 - #### Introduction to VSCode:
   - [VSCode UI](https://code.visualstudio.com/docs/getstarted/userinterface)
 

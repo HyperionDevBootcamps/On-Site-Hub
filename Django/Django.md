@@ -1,4 +1,10 @@
-# [![## Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev) 
+<p align="center">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=django" />
+</p>
+<h1 align="center">Django</h1>
+</br>
+</br>
 
 - **Django Dockerfile:** [Django Capstone on Docker Hub]
     1. ######   Does the file have a python environment (`FROM`)?

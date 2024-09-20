@@ -13,5 +13,9 @@
     - [Stack Overflow: Django UserCreationForm Custom Fields](https://stackoverflow.com/questions/48049498/django-usercreationform-custom-fields#:~:text=You%20don%27t%20need%20to%20define%20fields%20unders%20widgets.%20Define%20them%20as%20static%20at%20class%20level.)
 
     - [Django Forum: Customizing User Registration](https://forum.djangoproject.com/t/django-user-authentication-customizing-user-registration/23611)
-    
+
+
+- **Filtering & Sorting:**
+    - [URL to a related question on the Django forum](https://forum.djangoproject.com/t/i-want-to-filter-and-sort-in-table/26022/2)
+    - [Django-Filter Documentation & Installation](https://pypi.org/project/django-filter/)
 ---

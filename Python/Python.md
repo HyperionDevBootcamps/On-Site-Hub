@@ -1,4 +1,10 @@
-## Python
+<p align="center">
+      <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python" />
+</p>
+<h1 align="center">Python</h1>
+</br>
+</br>
 
 ###  Unit Testing in Python
 1. **[Pytest](https://machinelearningmastery.com/a-gentle-introduction-to-unit-testing-in-python/)**
